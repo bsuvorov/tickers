@@ -1,22 +1,22 @@
 ticker,comment
-OPRA, "Opera"
-KLTR, "Kaltura"
+OPRA,"Opera"
+KLTR,"Kaltura"
 AVLR,"AVLR"
 GTLB,"Gitlab"
 KD,"Kyndryl, IBM cloud infra spin off with annuity like revenues"
 CLVT,"Clarivate, started off as a Churchill SPAC"
 SKIL,"Skillsoft, started off as a a Churchill SPAC"
-CFLT, "Confluent"
-ASAN, "Asana"
+CFLT,"Confluent"
+ASAN,"Asana"
 ACXM,
 ADBE,
 AI,
 ALRM,
 AMBR,
 ANGI,
-API, Agora
+API,Agora
 APIC,
-APP, AppLovin
+APP,AppLovin
 APPF,
 ASUR,
 ATHN,"Athenahealth, acquired by PE"
@@ -47,7 +47,7 @@ CSGP,
 CSLT,
 CSOD,
 CTXS,
-CURI, Content driven subscription service (Curiosity stream)
+CURI,Content driven subscription service (Curiosity stream)
 CVT,
 CYBR,CyberArk Israel based cybersecurity company
 DATA,"Tableu, acquired by salesforce on 15.7b in salesforce stock"
@@ -55,9 +55,9 @@ DBX,
 DCT,"The company is one of the leading SaaS provider of core systems for the P&C insurance industry. The product portfolio includes distribution management, reinsurance management, digital management, and other services."
 DDOG,
 DHI,
-DNB, Dun & Bradstreet
-DOCS, Doximity - social network for doctors
-DOCU, Docusign
+DNB,"Dun & Bradstreet"
+DOCS,"Doximity - social network for doctors"
+DOCU,"Docusign"
 DOMO,
 DSGX,
 EB,
@@ -68,14 +68,14 @@ EGHT,
 ELLI,"September 04, 2020 acquired from Thoma Bravo for 11 bil"
 ELOQ,
 ENV,
-EPAY,electronic payments
+EPAY,"electronic payments"
 ESTC,
 ETSY,
 EVER,
 FB,
 FEYE,
 FIVN,
-FLTX,"""Fleetmatics, acquired for $60 per share on Aug 1, 2016, or 2.4 bil for the company"""
+FLTX,"Fleetmatics, acquired for $60 per share on Aug 1, 2016, or 2.4 bil for the company"
 FSLY,
 GSB,
 GWRE,
@@ -93,18 +93,18 @@ KEYW,
 LOGM,
 LPSN,
 LYFT,
-MB,"""Mindbody, acquired by private equity"""
+MB,"Mindbody, acquired by private equity"
 MDB,
 MDLA,
 MDSO,
 ME,
 MGI,
 MIME,
-MNDY, "Monday.com"
-MNTV, used to be named survey monkey
-MOMO,chinese match.com
+MNDY,"Monday.com"
+MNTV,"used to be named survey monkey"
+MOMO,"chinese match.com"
 MRIN,
-MTCH, Match.com tinder and others
+MTCH,"Match.com tinder and others"
 MULE,
 MULE,
 NET,
@@ -112,7 +112,7 @@ NEWR,
 NFLX,
 NH,
 NOW,
-NRDS, media mostly
+NRDS,"media mostly"
 NTNX,
 OKTA,
 OOMA,
@@ -132,7 +132,7 @@ QHR,
 QLYS,
 QSII,
 RBL,
-RBLX, Roblox
+RBLX,"Roblox"
 RNG,
 RP,
 RPD,
@@ -154,8 +154,8 @@ SQ,
 SSNC,
 STMP,
 STNE,
-SUMO,"""Sumo Logic cloud-based machine data analytics company focusing on security,  operations and BI usecases."""
-TALK, Talkspace
+SUMO,"Sumo Logic cloud-based machine data analytics company focusing on security,  operations and BI usecases."
+TALK,"Talkspace"
 TCEHY,
 TDOC,
 TEAM,
@@ -166,14 +166,14 @@ TTD,
 TWLO,
 TWOU,
 TWTR,
-TXTR,"acquired by orcale for $26 per share on april 28, 2016"
-U, "Unity software"
+TXTR,"acquired by oracle for $26 per share on april 28, 2016"
+U,"Unity software"
 UBER,
 ULTI,
 UPLD,
-UPWK, Upwork
+UPWK,Upwork
 VEEV,
-VMEO, Vimeo
+VMEO,Vimeo
 VMW,
 WDAY,
 WK,
@@ -182,8 +182,8 @@ XTLY,
 YELP,
 YEXT,
 ZEN,
-ZG, "Zillow Group"
-ZI, ZoomInfo
+ZG,"Zillow Group"
+ZI,ZoomInfo
 ZM,
 ZM,
 ZOU,
