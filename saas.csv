@@ -1,17 +1,20 @@
 ticker,comment
+OPRA, "Opera"
+KLTR, "Kaltura"
 AVLR,"AVLR"
 GTLB,"Gitlab"
 KD,"Kyndryl, IBM cloud infra spin off with annuity like revenues"
 CLVT,"Clarivate, started off as a Churchill SPAC"
 SKIL,"Skillsoft, started off as a a Churchill SPAC"
-ASAN,
+CFLT, "Confluent"
+ASAN, "Asana"
 ACXM,
 ADBE,
 AI,
 ALRM,
 AMBR,
 ANGI,
-API, Agora 
+API, Agora
 APIC,
 APP, AppLovin
 APPF,
@@ -97,7 +100,7 @@ MDSO,
 ME,
 MGI,
 MIME,
-MNDY,
+MNDY, "Monday.com"
 MNTV, used to be named survey monkey
 MOMO,chinese match.com
 MRIN,
@@ -170,7 +173,7 @@ ULTI,
 UPLD,
 UPWK, Upwork
 VEEV,
-VMEO,
+VMEO, Vimeo
 VMW,
 WDAY,
 WK,
