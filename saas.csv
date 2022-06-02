@@ -1,4 +1,5 @@
 ticker,comment
+AI,"C3 ai"
 OPRA,"Opera"
 KLTR,"Kaltura"
 AVLR,"AVLR"
@@ -125,8 +126,7 @@ PSFE,
 PVTL,
 PYPL,
 QLYS,
-QSII,
-RBL,
+NXGN,"nextgen healthcare, formerly QSII"
 RBLX,"Roblox"
 RNG,
 RP,
@@ -179,7 +179,6 @@ ZG,"Zillow Group"
 ZI,ZoomInfo
 ZM,
 ZM,
-ZOU,
 ZS,
 ZUO,
 HCP,
