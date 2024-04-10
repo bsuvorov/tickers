@@ -1,8 +1,11 @@
 ticker,comment
+ALKT,
 VERI,
 DV,
 CWAN,
+CXM,
 ETWO,
+EVCM,
 AMPL,
 LAW,
 OLO,
@@ -10,17 +13,21 @@ TRAK,"Park City group boasts 98% recurring revenue with 95% retention rate"
 COUR,"Coursera"
 APTI,"Apptio - taken private by Vista Equity"
 PATH,"UiPath"
-TBLA,"Taboola"
+PCOR,
 EVBG,"Everbridge"
 BRZE,"Braze"
 EXFY,"Expensify"
 BLZE,"Backblaze"
 AVDX,"AvidXchange"
+DSP,
+SMWB,
+TBLA,"Taboola"
 OB,"OUTBRAIN"
 DUOL,"Duolingo"
 AI,"C3 ai"
 KNBE,"KnowBe4"
 OPRA,"Opera"
+OLO, 
 KLTR,"Kaltura"
 AVLR,"AVLR"
 GTLB,"Gitlab"
@@ -79,6 +86,7 @@ DOCS,"Doximity - social network for doctors"
 DOCU,"Docusign"
 DOMO,
 DSGX,
+DT,
 EB,
 EBAY,
 EBIX,
@@ -110,6 +118,7 @@ KEYW,
 LOGM,
 LPSN,
 LYFT,
+MLNK,
 MB,"Mindbody, acquired by private equity"
 MDB,
 MDLA,
@@ -143,18 +152,21 @@ PS,
 PSFE,
 PVTL,
 PYPL,
+PWSC,
 QLYS,
 NXGN,"nextgen healthcare, formerly QSII"
 RBLX,"Roblox"
 RNG,
 RP,
 RPD,
+S,
 SAAS,
+SEMR,
 SCWX,
+SQSP,
 SFIX,
 SHOP,
 SHSP,
-SMAR,
 SMAR,
 SNAP,
 SNOW,
@@ -166,6 +178,7 @@ SQ,
 SSNC,
 STMP,
 STNE,
+SPT,
 SUMO,"Sumo Logic cloud-based machine data analytics company focusing on security,  operations and BI usecases."
 TALK,"Talkspace"
 TDOC,
@@ -178,6 +191,7 @@ TWLO,
 TWOU,
 TWTR,
 TXTR,"acquired by oracle for $26 per share on april 28, 2016"
+FROG,
 U,"Unity software"
 UBER,
 ULTI,
@@ -194,9 +208,10 @@ YELP,
 YEXT,
 ZEN,
 ZG,"Zillow Group"
-ZI,ZoomInfo
-ZM,
+ZI,ZoomInfo,
+ZETA,
 ZM,
 ZS,
 ZUO,
 HCP,
+HCAT,
