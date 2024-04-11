@@ -9,6 +9,7 @@ EVCM,
 AMPL,
 LAW,
 OLO,
+IOT,
 TRAK,"Park City group boasts 98% recurring revenue with 95% retention rate"
 COUR,"Coursera"
 APTI,"Apptio - taken private by Vista Equity"
@@ -24,6 +25,7 @@ SMWB,
 TBLA,"Taboola"
 OB,"OUTBRAIN"
 DUOL,"Duolingo"
+PLTR,
 AI,"C3 ai"
 KNBE,"KnowBe4"
 OPRA,"Opera"
@@ -94,6 +96,7 @@ ECOM,
 EGHT,
 ELLI,"September 04, 2020 acquired from Thoma Bravo for 11 bil"
 ELOQ,
+ENFN,
 ENV,
 EPAY,"electronic payments"
 ESTC,
@@ -107,6 +110,7 @@ GSB,
 GWRE,
 HDP,
 HSTM,
+FRSH,
 HUBS,
 IL,
 ININ,
@@ -120,6 +124,7 @@ LPSN,
 LYFT,
 MLNK,
 MB,"Mindbody, acquired by private equity"
+BASE,"Couchbase"
 MDB,
 MDLA,
 MDSO,
@@ -181,6 +186,8 @@ STNE,
 SPT,
 SUMO,"Sumo Logic cloud-based machine data analytics company focusing on security,  operations and BI usecases."
 TALK,"Talkspace"
+DH,
+WEAV,
 TDOC,
 TEAM,
 TENB,
@@ -206,11 +213,13 @@ WORK,
 XTLY,
 YELP,
 YEXT,
+FRSH,
 ZEN,
 ZG,"Zillow Group"
 ZI,ZoomInfo
 ZETA,
 ZM,
+ONTF,
 ZS,
 ZUO,
 HCP,
