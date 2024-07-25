@@ -1,4 +1,19 @@
 ticker,comment
+CARB,"acquired"
+TXTR,"acquired by oracle for $26 per share on april 28, 2016"
+KNBE,"KnowBe4, taken private by Visa"
+ATHN1,"Athenahealth, acquired by PE"
+AYX,"self service analytics software, taken private in 4.4 bil deal"
+GSB,"taken private"
+HDP,"merged with CLDR which was later taken private"
+IL,"taken private"
+CLDR,"taken private"
+SPRT,"Was never saas businesses, but outsource, later reverse merged with bitcoin miner and became GREE (greenidge)"
+CRCM,"taken private by IAC"
+STMP,"taken private by Thoma Bravo for 6.6 bil in cash"
+ELLI,"September 04, 2020 acquired from Thoma Bravo for 11 bil"
+SUMO,"Feb 9, 2023 — Sumo Logic Inc on Thursday agreed to be acquired by investment firm Francisco Partners in a deal that values the big data firm at about $1.7 bil"
+XTLY, "acquired by Vista in 2017"
 ALKT,
 VERI,
 DV,
@@ -27,9 +42,8 @@ OB,"OUTBRAIN"
 DUOL,"Duolingo"
 PLTR,
 AI,"C3 ai"
-KNBE,"KnowBe4"
 OPRA,"Opera"
-OLO, 
+OLO,
 KLTR,"Kaltura"
 AVLR,"AVLR"
 GTLB,"Gitlab"
@@ -48,9 +62,7 @@ APIC,
 APP,AppLovin
 APPF,
 ASUR,
-ATHN1,"Athenahealth, acquired by PE"
 AVLR,
-AYX,self service analytics software
 BABA,
 BCOV,
 BILL,
@@ -60,14 +72,11 @@ BNFT,
 BOX,
 BSFT,
 CALD,
-CARB,
 CBLK,
 CDLX,
 CHKP,
-CLDR,
 COUP,
 COVS,
-CRCM,
 CRM,
 CRTO,
 CRWD,
@@ -93,7 +102,6 @@ EBAY,
 EBIX,
 ECOM,
 EGHT,
-ELLI,"September 04, 2020 acquired from Thoma Bravo for 11 bil"
 ELOQ,
 ENFN,
 ENV,
@@ -105,13 +113,10 @@ META,
 FIVN,
 FLTX,"Fleetmatics, acquired for $60 per share on Aug 1, 2016, or 2.4 bil for the company"
 FSLY,
-GSB,
 GWRE,
-HDP,
 HSTM,
 FRSH,
 HUBS,
-IL,
 ININ,
 INST,
 INTU,Intuit
@@ -176,14 +181,11 @@ SNAP,
 SNOW,
 SPLK,
 SPOT,
-SPRT,
 SPSC,
 SQ,
 SSNC,
-STMP,
 STNE,
 SPT,
-SUMO,"Sumo Logic cloud-based machine data analytics company focusing on security,  operations and BI usecases."
 TALK,"Talkspace"
 DH,
 WEAV,
@@ -196,7 +198,6 @@ TTD,
 TWLO,
 TWOU,
 TWTR,
-TXTR,"acquired by oracle for $26 per share on april 28, 2016"
 FROG,
 U,"Unity software"
 UBER,
@@ -209,7 +210,6 @@ VMW,
 WDAY,
 WK,
 WORK,
-XTLY,
 YELP,
 YEXT,
 FRSH,
